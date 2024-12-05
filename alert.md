@@ -20,6 +20,8 @@ We are excited to announce a **major overhaul** of Mastro Clock! The entire app 
 - **🆕 Feature Enhancements**: 
   - New **customization options** 
   - Enhanced **clock behavior** and **notification handling**.
+- **📦 Smaller Installers**: 
+  - Current installers are around **100MB** (estimated), but with the recode, **installer size will now be reduced to approximately 10-100KB**, making it **much lighter** and quicker to download and install!
 
 ---
 
@@ -30,6 +32,8 @@ We are excited to announce a **major overhaul** of Mastro Clock! The entire app 
   - Whether you're on **Windows**, **macOS**, or **Linux**, you’ll have the same awesome experience across the board.
 - **💨 Performance Boost**: 
   - The app will now consume fewer resources, run **faster**, and integrate more seamlessly with your OS.
+- **🔽 Lighter Installers**: 
+  - **Faster downloads** with much smaller installer sizes, **under 100KB**, compared to the previous hefty 100MB!
 
 ---
 
